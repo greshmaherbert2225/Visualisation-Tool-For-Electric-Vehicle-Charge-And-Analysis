@@ -9,4 +9,4 @@ Story public link - https://public.tableau.com/views/storyofelectriccar/StoryonE
 
 
 
-
+video documentation link - https://drive.google.com/file/d/1hoDlLTIcFJQDDtxvWoMm2zNSm8k3lhIm/view?usp=share_link
